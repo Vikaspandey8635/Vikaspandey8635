@@ -89,22 +89,6 @@ Accounting & Tax service platform
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaspandey8635&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaspandey8635&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vikaspandey8635&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Highlights
 - 🚀 Performance-focused developer
 - 🧠 Strong problem-solving skills
