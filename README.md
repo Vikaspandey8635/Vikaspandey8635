@@ -107,9 +107,8 @@ Accounting & Tax service platform
 
 ## 📫 Contact Me
 - 📧 Email: **vikaspandey8635@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn link)*
-- 🌐 Portfolio: *(Add your portfolio link)*
+- 💼 LinkedIn: **https://www.linkedin.com/in/vikas-pandey86/**
+- 🌐 Portfolio: **https://my-portfolio-kappa-tawny-10.vercel.app/**
 
 ---
 
-⭐️ If you like my work, feel free to ⭐ my repositories!
