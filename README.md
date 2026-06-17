@@ -13,7 +13,6 @@ I am a passionate **Front-End Developer** in building fast, scalable, and user-f
 
 ## 🚀 About Me
 - 💼 Junior Developer at **eSoftware Solutions**
-- ⚡ Improved application performance by **20–30%**
 - 🧩 Built reusable and scalable UI components
 - 🔄 Implemented real-time features using **Socket.io**
 - 🔔 Integrated **Firebase notifications**
